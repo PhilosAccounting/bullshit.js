@@ -1,5 +1,5 @@
-## 💩 Bullshit.js
+## Simple.js
 
-Bullshit.js is a best-of-breed, mission-critical enterprise JavaScript bookmarklet that will empower you to evaluate the high impact of market-driven text on any Web resource, cultivating process-centric innovation and out-of-the-box thinking.
+Simple.js is a derivative, elaborate and engaging JavaScript bookmarklet that will make you ask what words you use to seem urbane, sophisticated, genre-savvy, and downright wrong-headed.
 
-https://mourner.github.io/bullshit.js/
+https://philosaccounting.github.io/simple.js/
